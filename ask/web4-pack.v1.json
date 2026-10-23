@@ -6,8 +6,8 @@
     "asset": "/assets/index-4P03Ct8A.js",
     "seen_at": "2026-10-23"
   },
-  "card_count": 38,
-  "cards_sha256": "b9625e429d515ed34a8af6ca7fb5df484602a07016246b1f5b95cb860332522b",
+  "card_count": 40,
+  "cards_sha256": "6aa43f9ffcef70af774d5156c560bb357d46644e73c7d44cc7938c9a677ce3b8",
   "suggested": [
     {
       "question": "What is Web4?",
@@ -344,18 +344,12 @@
         "Does renting cost anything?",
         "Is there a fee to rent?"
       ],
-      "answer": "No. The rent page says there are no token transfers and that Web4 covers the compute, so your $COMPUTE stays in your wallet. Arcade is different: there you lock $COMPUTE for your playtime and get it back automatically when the session ends.",
+      "answer": "No. The rent page says there are no token transfers and that Web4 covers the compute, so your $COMPUTE stays in your wallet.",
       "status": "verified",
       "sources": [
         {
           "url": "https://web-4.app/rent",
           "label": "web-4.app/rent",
-          "kind": "web4-page",
-          "seen_at": "2026-10-23"
-        },
-        {
-          "url": "https://web-4.app/",
-          "label": "web-4.app home page FAQ",
           "kind": "web4-page",
           "seen_at": "2026-10-23"
         }
@@ -504,6 +498,44 @@
         "private",
         "preview",
         "version"
+      ]
+    },
+    {
+      "id": "build-custom-domain",
+      "topic": "build",
+      "questions": [
+        "Can I use my own domain?",
+        "How do I add a custom domain?",
+        "How do I point my domain at my project?",
+        "Does Web4 support custom domains?",
+        "Can I get rid of web4 in my URL?",
+        "Do I get HTTPS on my domain?"
+      ],
+      "answer": "Yes, once your project is published. Open Publish, then Custom domain, type a domain you own and press Connect. Add the DNS records Web4 shows at your domain provider. Web4 says HTTPS turns on automatically, usually within minutes, sometimes up to a few hours. You need your wallet connected. Web4 hasn't said whether it costs anything.",
+      "status": "verified",
+      "sources": [
+        {
+          "url": "https://web-4.app/build",
+          "label": "web-4.app/build",
+          "kind": "web4-page",
+          "seen_at": "2026-10-23"
+        },
+        {
+          "url": "https://x.com/web4dotapp/status/2113661275381125530",
+          "label": "@web4dotapp on X, Oct 23 (Upgrade 5/5)",
+          "kind": "x-post",
+          "seen_at": "2026-10-23"
+        }
+      ],
+      "verified_at": "2026-10-23",
+      "ttl_days": 14,
+      "needs_jeremy": true,
+      "keywords": [
+        "domain",
+        "dns",
+        "https",
+        "url",
+        "custom"
       ]
     },
     {
@@ -868,7 +900,7 @@
         "Who controls the token's wallet?",
         "Who holds the launch wallet?"
       ],
-      "answer": "Web4 says each launch uses its own protected platform custody wallet, a wallet the platform holds for that launch. You sign in with your own Solana wallet.",
+      "answer": "Web4 says each launch uses its own protected platform custody wallet, a wallet the platform holds for that launch. You sign in with your own Solana wallet. Any dev tokens from your launch go to your connected creator wallet.",
       "status": "verified",
       "sources": [
         {
@@ -1081,24 +1113,56 @@
       ]
     },
     {
+      "id": "fig-token",
+      "topic": "more",
+      "questions": [
+        "What is $FIG?",
+        "What's the Fig token?",
+        "Is Fig a token?",
+        "What is the $FIG token for?"
+      ],
+      "answer": "$FIG is my token. It launched on Web4 and is linked to my project there, where I'm building a free kit for the free GPU hour. I don't talk money or markets.",
+      "status": "verified",
+      "sources": [
+        {
+          "url": "https://web-4.app/api/public/v1/tokens/35e13b19-858d-480c-8779-ad25bc6f4d45",
+          "label": "Fig's token in the Web4 API (JSON)",
+          "kind": "web4-api",
+          "seen_at": "2026-10-23"
+        },
+        {
+          "url": "https://github.com/fig-the-fox/fig-kit",
+          "label": "Fig's kit on GitHub",
+          "kind": "fig",
+          "seen_at": "2026-10-23"
+        }
+      ],
+      "verified_at": "2026-10-23",
+      "ttl_days": 14,
+      "needs_jeremy": true
+    },
+    {
       "id": "arcade",
       "topic": "more",
       "questions": [
         "How does Arcade playtime work?",
+        "Is Arcade free?",
+        "How many free minutes do I get in Arcade?",
+        "When do Arcade minutes reset?",
         "Do I get my tokens back after Arcade?"
       ],
-      "answer": "In Arcade you lock $COMPUTE for the minutes you want to play. When the session ends, Web4 sends the tokens back to your wallet automatically. That's different from renting a GPU, which needs no token transfers.",
+      "answer": "In Arcade, every $COMPUTE holder gets 10 free minutes of games a day, and nothing leaves your wallet. The minutes reset at 00:00 UTC. Some older Web4 text says you lock $COMPUTE by the minute; the Arcade play page says free minutes.",
       "status": "verified",
       "sources": [
         {
-          "url": "https://web-4.app/",
-          "label": "web-4.app home page FAQ",
+          "url": "https://web-4.app/originals/gaming",
+          "label": "web-4.app/originals/gaming (Arcade play page)",
           "kind": "web4-page",
           "seen_at": "2026-10-23"
         },
         {
-          "url": "https://web-4.app/rent",
-          "label": "web-4.app/rent",
+          "url": "https://web-4.app/",
+          "label": "web-4.app home page FAQ",
           "kind": "web4-page",
           "seen_at": "2026-10-23"
         }
@@ -1213,7 +1277,7 @@
         "How much is Build?",
         "Does it cost money?"
       ],
-      "answer": "It depends on what you're doing. Renting a GPU is free for $COMPUTE holders, with no token transfers, and Web4 covers the compute. Launching a token: Web4's launch page lists the 0.05 SOL launch fee. Building: I don't have a checked answer yet, so see web-4.app/build.",
+      "answer": "It depends on what you're doing. Renting a GPU is free for $COMPUTE holders, with no token transfers, and Web4 covers the compute. Launching a token: Web4's launch page lists the 0.05 SOL launch fee. Building: when Build launched Oct 22, Web4 said free for 24 hours, then limited free use; the Build page no longer says.",
       "status": "verified",
       "sources": [
         {
