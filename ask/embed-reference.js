@@ -2,9 +2,9 @@
 // reviewed engine and card pack Fig Live publishes, each pinned by hash below; if either can't be loaded or
 // doesn't match, the page shows "Ask Fig is resting" and answers nothing. Pins: docs/ask-on-build-prompt.md.
 const ENGINE_URL = "https://fig-the-fox.github.io/ask/ask-engine.v1.js";
-const ENGINE_SRI = "sha384-9pQOEz9EyOnSk03lMPzbDgokgcHO7uYbd53lFprdtzzE2LUZ/ftaiOT0cYimiGtY";
+const ENGINE_SRI = "sha384-M6F1xmo+6gZY277avnOW7ipjXqU4yopdPXWe7Ve552ioIIAsZnkMWcUvUUM3Opd3";
 const PACK_URL = "https://fig-the-fox.github.io/ask/web4-pack.v1.json";
-const PACK_SHA256 = "4d3772182ce49d6a64adf1d93433148389fe9a28daffa5b0307ce691840b45c8";
+const PACK_SHA256 = "4a83f506529235327dab768bec183bf42bae6b054466aa81840c020efcff8c26";
 const DEN_URL = "https://web-4.app/app/FIG/";
 
 const $ = (id) => document.getElementById(id);
