@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Ask Fig (embed reference)</title>
+<!-- The pattern a page outside Fig Live (the Web4 Build page) follows to run Ask Fig: it loads the reviewed engine
+     and card pack from Fig Live, each pinned by hash, and answers nothing until both check out. Logic is in
+     embed-reference.js; see docs/ask-on-build-prompt.md. -->
+<style>
+  body { margin: 0; background: #1d1424; color: #f6ead8; font: 17px/1.5 system-ui, sans-serif; }
+  main { max-width: 640px; margin: 0 auto; padding: 24px 16px; }
+  input, button { font: inherit; min-height: 44px; }
+  input { width: 100%; box-sizing: border-box; padding: 0 12px; background: #120c17; color: inherit; border: 1px solid #5a4766; }
+  button { padding: 0 14px; background: none; color: inherit; border: 1px solid #5a4766; cursor: pointer; text-align: left; }
+  #go { background: #ff9d4d; color: #1d1424; font-weight: 700; border: 0; }
+  .row { display: flex; gap: 8px; }
+  ul { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+  article { margin-top: 24px; padding: 16px 20px; border: 1px solid #5a4766; }
+  .dim { color: #bfaecb; font-size: 14px; }
+  .stale { color: #ff9d4d; }
+  a { color: inherit; }
+</style>
+<script type="module" src="./embed-reference.js"></script>
+</head>
+<body data-state="loading">
+<main>
+  <h1>Ask Fig</h1>
+  <p id="waking">Fig is waking up…</p>
+  <p id="resting" hidden>Ask Fig is resting. See <a id="den" target="_blank" rel="noopener noreferrer">Fig's den</a>.</p>
+  <div id="ask" hidden>
+    <div class="row">
+      <input id="q" type="text" maxlength="300" autocomplete="off" placeholder="Ask Fig anything about Web4" aria-label="Your question for Fig">
+      <button id="go" type="button">Ask</button>
+    </div>
+    <ul id="chips" aria-label="Suggested questions"></ul>
+    <div id="out" aria-live="polite"></div>
+  </div>
+</main>
+</body>
+</html>
