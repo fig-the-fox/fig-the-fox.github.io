@@ -3,11 +3,11 @@
   "version": 1,
   "as_of": "2026-10-24",
   "web4_checked_against": {
-    "asset": "/assets/index-BuTEvV2k.js",
+    "asset": "/assets/index-D3rSvPRP.js",
     "seen_at": "2026-10-24"
   },
-  "card_count": 45,
-  "cards_sha256": "6f7fd739551212973967bf322ac37eb96a126a0334e698bc95a5cf7fd0141101",
+  "card_count": 46,
+  "cards_sha256": "8046471b91cc20c1751dbecc6d176f0f8da50d03a584fdcc8322b18abb55fbbf",
   "suggested": [
     {
       "question": "What is Web4?",
@@ -878,6 +878,42 @@
         "rollback",
         "earlier",
         "previous"
+      ]
+    },
+    {
+      "id": "build-suggestions",
+      "topic": "build",
+      "questions": [
+        "Does Build suggest improvements?",
+        "What are the suggestions after a build?",
+        "How do I use a suggested improvement?",
+        "Where are the improvement ideas in Build?",
+        "Does a suggestion start a build?"
+      ],
+      "answer": "After a build finishes, Web4 AI can add up to four short ideas under its latest reply, labelled Next ideas. They're hidden while a build is running. Press one and its text goes into the prompt box, replacing anything you'd typed, so you can edit it. Nothing is built until you press send.",
+      "status": "verified",
+      "sources": [
+        {
+          "url": "https://web-4.app/build",
+          "label": "web-4.app/build",
+          "kind": "web4-page",
+          "seen_at": "2026-10-24"
+        },
+        {
+          "url": "https://x.com/web4dotapp/status/2114095638887776692",
+          "label": "@web4dotapp on X, Oct 24",
+          "kind": "x-post",
+          "seen_at": "2026-10-24"
+        }
+      ],
+      "verified_at": "2026-10-24",
+      "ttl_days": 7,
+      "needs_jeremy": false,
+      "keywords": [
+        "suggestions",
+        "suggested",
+        "ideas",
+        "improvements"
       ]
     },
     {
