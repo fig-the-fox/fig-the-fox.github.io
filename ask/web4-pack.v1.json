@@ -1,13 +1,13 @@
 {
   "schema": "fig-ask-web4-pack",
   "version": 1,
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "web4_checked_against": {
-    "asset": "/assets/index-D3rSvPRP.js",
-    "seen_at": "2026-10-24"
+    "asset": "/assets/index-glD2NrGo.js",
+    "seen_at": "2026-10-25"
   },
-  "card_count": 46,
-  "cards_sha256": "8046471b91cc20c1751dbecc6d176f0f8da50d03a584fdcc8322b18abb55fbbf",
+  "card_count": 48,
+  "cards_sha256": "801613458200447ec0092e9cf02949b17a58e016b5d14dd35208f65f0b934b34",
   "suggested": [
     {
       "question": "What is Web4?",
@@ -60,16 +60,16 @@
           "url": "https://web-4.app/rent",
           "label": "web-4.app/rent",
           "kind": "web4-page",
-          "seen_at": "2026-10-23"
+          "seen_at": "2026-10-25"
         },
         {
-          "url": "https://web-4.app/",
-          "label": "web-4.app home page FAQ",
+          "url": "https://web-4.app/how-it-works",
+          "label": "web-4.app/how-it-works",
           "kind": "web4-page",
-          "seen_at": "2026-10-23"
+          "seen_at": "2026-10-25"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": true,
       "keywords": [
@@ -104,7 +104,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": false,
       "keywords": [
@@ -132,7 +132,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": false,
       "keywords": [
@@ -169,7 +169,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": false,
       "keywords": [
@@ -198,16 +198,16 @@
           "url": "https://web-4.app/rent",
           "label": "web-4.app/rent",
           "kind": "web4-page",
-          "seen_at": "2026-10-23"
+          "seen_at": "2026-10-25"
         },
         {
-          "url": "https://web-4.app/",
-          "label": "web-4.app home page FAQ",
+          "url": "https://web-4.app/how-it-works",
+          "label": "web-4.app/how-it-works",
           "kind": "web4-page",
-          "seen_at": "2026-10-23"
+          "seen_at": "2026-10-25"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": false,
       "keywords": [
@@ -239,7 +239,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": false,
       "keywords": [
@@ -268,7 +268,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": false,
       "keywords": [
@@ -296,7 +296,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": false,
       "keywords": [
@@ -325,7 +325,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": false,
       "keywords": [
@@ -355,7 +355,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": true,
       "keywords": [
@@ -387,7 +387,7 @@
           "url": "https://web-4.app/",
           "label": "web-4.app home page FAQ",
           "kind": "web4-page",
-          "seen_at": "2026-10-23"
+          "seen_at": "2026-10-25"
         },
         {
           "url": "https://web-4.app/build",
@@ -396,7 +396,7 @@
           "seen_at": "2026-10-24"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -429,7 +429,7 @@
           "seen_at": "2026-10-24"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -458,7 +458,7 @@
           "seen_at": "2026-10-24"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": false,
       "keywords": [
@@ -474,9 +474,10 @@
       "questions": [
         "Do I need $COMPUTE to build?",
         "Do I need a token to use Build?",
-        "Do I need to hold anything to build?"
+        "Do I need to hold anything to build?",
+        "Can I use Build for a token I already have?"
       ],
-      "answer": "No. The Build page says your signed wallet owns your projects and no token is required. You only need a Solana wallet to sign in.",
+      "answer": "No. The Build page says your signed wallet owns your projects and no token is required. You only need a Solana wallet to sign in. If you already have a token, Web4 says you don't need to launch another: you can build and publish a site for it.",
       "status": "verified",
       "sources": [
         {
@@ -489,10 +490,16 @@
           "url": "https://web-4.app/",
           "label": "web-4.app home page FAQ",
           "kind": "web4-page",
-          "seen_at": "2026-10-23"
+          "seen_at": "2026-10-25"
+        },
+        {
+          "url": "https://x.com/web4dotapp/status/2114411206765416940",
+          "label": "@web4dotapp on X, Oct 25",
+          "kind": "x-post",
+          "seen_at": "2026-10-25"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": true,
       "keywords": [
@@ -519,7 +526,7 @@
           "seen_at": "2026-10-24"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -550,7 +557,7 @@
           "seen_at": "2026-10-24"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": false,
       "keywords": [
@@ -569,7 +576,7 @@
         "Can I get rid of web4 in my URL?",
         "Do I get HTTPS on my domain?"
       ],
-      "answer": "Yes, once your project is published. Open Publish, then Custom domain, type a domain you own and press Connect. Add the DNS records Web4 shows at your domain provider. Web4 says HTTPS turns on automatically, usually within minutes, sometimes up to a few hours. You need your wallet connected. Web4 hasn't said whether it costs anything.",
+      "answer": "Yes, once your project is published. Open Publish, then Custom domain, type a domain you own and press Connect. Add the DNS records Web4 shows at your domain provider. Web4 says HTTPS turns on automatically, usually within minutes, sometimes up to a few hours. You need your wallet connected. Web4 hasn't said whether a domain costs anything.",
       "status": "verified",
       "sources": [
         {
@@ -583,9 +590,15 @@
           "label": "@web4dotapp on X, Oct 23 (Upgrade 5/5)",
           "kind": "x-post",
           "seen_at": "2026-10-23"
+        },
+        {
+          "url": "https://web-4.app/",
+          "label": "web-4.app",
+          "kind": "web4-page",
+          "seen_at": "2026-10-25"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": true,
       "keywords": [
@@ -620,7 +633,7 @@
           "seen_at": "2026-10-24"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 5,
       "needs_jeremy": false,
       "keywords": [
@@ -654,7 +667,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -688,7 +701,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -716,7 +729,7 @@
           "seen_at": "2026-10-22"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -747,7 +760,7 @@
           "seen_at": "2026-10-24"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": false,
       "keywords": [
@@ -777,7 +790,7 @@
           "seen_at": "2026-10-22"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -806,7 +819,7 @@
           "seen_at": "2026-10-22"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -837,7 +850,7 @@
           "seen_at": "2026-10-24"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": false,
       "keywords": [
@@ -868,7 +881,7 @@
           "seen_at": "2026-10-24"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": false,
       "keywords": [
@@ -906,7 +919,7 @@
           "seen_at": "2026-10-24"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -917,6 +930,87 @@
       ]
     },
     {
+      "id": "build-vscode",
+      "topic": "build",
+      "questions": [
+        "Can I use Web4 Build in VS Code?",
+        "Is there a VS Code extension for Web4?",
+        "How do I install the Web4 Build extension?",
+        "How do I sign in to Web4 from VS Code?",
+        "What code does VS Code ask me to approve?"
+      ],
+      "answer": "Press VS Code in Build's top bar, or Get the extension on web-4.app, to download it. In VS Code, use Extensions → ··· → Install from VSIX. Open Web4 in the sidebar, connect your wallet, and approve the matching code at web-4.app/build/connect. Only approve codes you started yourself. Web4 says you can chat, edit, preview and publish there.",
+      "status": "verified",
+      "sources": [
+        {
+          "url": "https://web-4.app/build",
+          "label": "web-4.app/build",
+          "kind": "web4-page",
+          "seen_at": "2026-10-25"
+        },
+        {
+          "url": "https://x.com/web4dotapp/status/2114419014780768327",
+          "label": "@web4dotapp on X, Oct 25",
+          "kind": "x-post",
+          "seen_at": "2026-10-25"
+        },
+        {
+          "url": "https://web-4.app/",
+          "label": "web-4.app",
+          "kind": "web4-page",
+          "seen_at": "2026-10-25"
+        }
+      ],
+      "verified_at": "2026-10-25",
+      "ttl_days": 7,
+      "needs_jeremy": false,
+      "keywords": [
+        "vs code",
+        "vscode",
+        "extension",
+        "vsix",
+        "editor"
+      ]
+    },
+    {
+      "id": "build-attach-image",
+      "topic": "build",
+      "questions": [
+        "Can I attach an image to my prompt?",
+        "Can I upload a screenshot to Build?",
+        "Can I give Build a design or logo?",
+        "What images can I attach in Build?"
+      ],
+      "answer": "Yes, once a project is open. Press Attach image to add a design, screenshot or logo: PNG, JPG, WebP or GIF, up to 4 per message, each under 5 MB. You can send images without any text.",
+      "status": "verified",
+      "sources": [
+        {
+          "url": "https://web-4.app/build",
+          "label": "web-4.app/build",
+          "kind": "web4-page",
+          "seen_at": "2026-10-25"
+        },
+        {
+          "url": "https://web-4.app/",
+          "label": "web-4.app",
+          "kind": "web4-page",
+          "seen_at": "2026-10-25"
+        }
+      ],
+      "verified_at": "2026-10-25",
+      "ttl_days": 7,
+      "needs_jeremy": false,
+      "keywords": [
+        "image",
+        "images",
+        "screenshot",
+        "logo",
+        "attach",
+        "upload",
+        "picture"
+      ]
+    },
+    {
       "id": "build-no-gpu",
       "topic": "build",
       "questions": [
@@ -924,17 +1018,23 @@
         "What happens to my product if the GPU is off?",
         "Does Build need a GPU?"
       ],
-      "answer": "No. Web4's FAQ says published product pages are independent of GPU rentals, and your creator workspace stays available for editing.",
+      "answer": "No. Building and publishing happen on web-4.app and only need a Solana wallet; renting a GPU is a separate part of Web4. Web4's site no longer spells out what happens to a published page when a rental ends.",
       "status": "verified",
       "sources": [
         {
-          "url": "https://web-4.app/",
-          "label": "web-4.app home page FAQ",
+          "url": "https://web-4.app/build",
+          "label": "web-4.app/build",
           "kind": "web4-page",
-          "seen_at": "2026-10-23"
+          "seen_at": "2026-10-25"
+        },
+        {
+          "url": "https://web-4.app/how-it-works",
+          "label": "web-4.app/how-it-works",
+          "kind": "web4-page",
+          "seen_at": "2026-10-25"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -952,17 +1052,17 @@
         "Can holders tell the builder what to do?",
         "Can holders edit my project?"
       ],
-      "answer": "Only the creator edits the product. Web4 says holders can use the published product, but can't give the builder orders or change its files.",
+      "answer": "Your project belongs to the wallet you signed in with, and its preview is private to you until you publish. Web4's site no longer says whether holders can ask for changes; the line saying they can't give the builder orders was removed on Oct 25.",
       "status": "verified",
       "sources": [
         {
-          "url": "https://web-4.app/",
-          "label": "web-4.app home page FAQ",
+          "url": "https://web-4.app/build",
+          "label": "web-4.app/build",
           "kind": "web4-page",
-          "seen_at": "2026-10-23"
+          "seen_at": "2026-10-25"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -986,25 +1086,19 @@
       "status": "verified",
       "sources": [
         {
-          "url": "https://web-4.app/",
-          "label": "web-4.app home page FAQ",
-          "kind": "web4-page",
-          "seen_at": "2026-10-23"
-        },
-        {
           "url": "https://web-4.app/how-it-works",
           "label": "web-4.app/how-it-works",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-25"
         },
         {
           "url": "https://web-4.app/launch",
           "label": "web-4.app/launch",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-25"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": true,
       "keywords": [
@@ -1041,7 +1135,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": true,
       "keywords": [
@@ -1073,7 +1167,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": true,
       "keywords": [
@@ -1090,17 +1184,17 @@
         "Who controls the token's wallet?",
         "Who holds the launch wallet?"
       ],
-      "answer": "Web4 says each launch uses its own protected platform custody wallet, a wallet the platform holds for that launch. You sign in with your own Solana wallet. Any dev tokens from your launch go to your connected creator wallet.",
+      "answer": "Token launches use a separate Web4-controlled launch wallet, not your personal wallet. You verify your own Solana wallet by signing a message. Any dev tokens from your launch go to your connected wallet, and unspent SOL stays in the launch wallet.",
       "status": "verified",
       "sources": [
         {
-          "url": "https://web-4.app/",
-          "label": "web-4.app home page FAQ",
+          "url": "https://web-4.app/launch",
+          "label": "web-4.app/launch",
           "kind": "web4-page",
-          "seen_at": "2026-10-23"
+          "seen_at": "2026-10-25"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": true,
       "keywords": [
@@ -1264,7 +1358,7 @@
           "seen_at": "2026-10-24"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 30,
       "needs_jeremy": false,
       "keywords": [
@@ -1351,13 +1445,13 @@
           "seen_at": "2026-10-23"
         },
         {
-          "url": "https://web-4.app/",
-          "label": "web-4.app home page FAQ",
+          "url": "https://web-4.app/how-it-works",
+          "label": "web-4.app/how-it-works",
           "kind": "web4-page",
-          "seen_at": "2026-10-23"
+          "seen_at": "2026-10-25"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": true,
       "keywords": [
@@ -1375,24 +1469,24 @@
         "Which AI models can I chat with on Web4?",
         "What models does Web4 run?"
       ],
-      "answer": "Web4's AI models hub runs open-source models on Web4 GPUs: Llama 3.1, Qwen 2.5, Qwen Coder, DeepSeek R1, Mistral 7B and a Llama vision model. You'll find it under Originals on web-4.app.",
+      "answer": "Web4's AI models hub lists open-source models: Llama 3.1, Qwen 2.5, Qwen Coder, DeepSeek R1, Mistral 7B and a Llama vision model. On Oct 25 they were all still marked installing, with none serving yet. You'll find it under Originals on web-4.app.",
       "status": "verified",
       "sources": [
         {
-          "url": "https://web-4.app/",
-          "label": "web-4.app home page FAQ",
+          "url": "https://web-4.app/originals/models",
+          "label": "web-4.app/originals/models",
           "kind": "web4-page",
-          "seen_at": "2026-10-23"
+          "seen_at": "2026-10-25"
         },
         {
           "url": "https://web-4.app/how-it-works",
           "label": "web-4.app/how-it-works",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-25"
         }
       ],
-      "verified_at": "2026-10-24",
-      "ttl_days": 14,
+      "verified_at": "2026-10-25",
+      "ttl_days": 3,
       "needs_jeremy": false,
       "keywords": [
         "llama",
@@ -1410,32 +1504,31 @@
         "What is Web4?",
         "What does Web4 do?",
         "What can I do on Web4?",
-        "What are Web4 Originals?",
-        "What is a token agent?"
+        "What are Web4 Originals?"
       ],
-      "answer": "Web4 lets you build web products with Web4 AI, publish them on web-4.app and launch a linked Solana token for each one. It also runs Web4 Originals: browser games, open-source AI models, automation agents and a free GPU rental. Web4 said on X (Oct 22) that its older token projects now live in Build too.",
+      "answer": "Web4 lets you build web apps with Web4 AI and publish them on web-4.app, then optionally launch a Solana token linked to a published project. It also runs Web4 Originals: cloud games, open AI models, automation agents, GPU rental and Anything API. Web4 said on X (Oct 22) that its older token projects now live in Build too.",
       "status": "verified",
       "sources": [
-        {
-          "url": "https://web-4.app/",
-          "label": "web-4.app home page FAQ",
-          "kind": "web4-page",
-          "seen_at": "2026-10-23"
-        },
         {
           "url": "https://web-4.app/how-it-works",
           "label": "web-4.app/how-it-works",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-25"
         },
         {
           "url": "https://x.com/web4dotapp/status/2113448331510792474",
           "label": "@web4dotapp on X, Oct 22 (Upgrade 3/5)",
           "kind": "x-post",
           "seen_at": "2026-10-23"
+        },
+        {
+          "url": "https://web-4.app/",
+          "label": "web-4.app",
+          "kind": "web4-page",
+          "seen_at": "2026-10-25"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": true,
       "keywords": [
@@ -1467,7 +1560,7 @@
         "How much is Build?",
         "Does it cost money?"
       ],
-      "answer": "It depends on what you're doing. Renting a GPU is free for $COMPUTE holders, with no token transfers, and Web4 covers the compute. Launching a token: Web4's launch page lists the 0.05 SOL launch fee. Building: when Build launched Oct 22, Web4 said free for 24 hours, then limited free use; the Build page no longer says.",
+      "answer": "It depends on what you're doing. Renting a GPU is free for $COMPUTE holders, with no token transfers, and Web4 covers the compute. Launching a token: Web4's launch page lists the 0.05 SOL launch fee. Building: Web4 now says Build is currently free, with unlimited projects and no usage caps.",
       "status": "verified",
       "sources": [
         {
@@ -1481,9 +1574,15 @@
           "label": "web-4.app/launch",
           "kind": "web4-page",
           "seen_at": "2026-10-24"
+        },
+        {
+          "url": "https://web-4.app/",
+          "label": "web-4.app",
+          "kind": "web4-page",
+          "seen_at": "2026-10-25"
         }
       ],
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-25",
       "ttl_days": 7,
       "needs_jeremy": true,
       "keywords": [
@@ -1521,7 +1620,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 14,
       "needs_jeremy": false,
       "keywords": [
@@ -1553,7 +1652,7 @@
           "url": "https://web-4.app/",
           "label": "web-4.app",
           "kind": "web4-page",
-          "seen_at": "2026-10-23"
+          "seen_at": "2026-10-25"
         },
         {
           "url": "https://web-4.app/rent",
@@ -1562,7 +1661,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-23",
+      "verified_at": "2026-10-25",
       "ttl_days": 30,
       "needs_jeremy": false,
       "keywords": [

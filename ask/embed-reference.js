@@ -4,7 +4,7 @@
 const ENGINE_URL = "https://fig-the-fox.github.io/ask/ask-engine.v1.js";
 const ENGINE_SRI = "sha384-M6F1xmo+6gZY277avnOW7ipjXqU4yopdPXWe7Ve552ioIIAsZnkMWcUvUUM3Opd3";
 const PACK_URL = "https://fig-the-fox.github.io/ask/web4-pack.v1.json";
-const PACK_SHA256 = "b4a76698d5f752cc658226e905902255c39b4c17e1b37b589aed2aea4ddd2540";
+const PACK_SHA256 = "7d9d6eeaadd660256c211db7dda4db9e1082ffd1a485122ca9547f05e8d08bec";
 const DEN_URL = "https://web-4.app/app/FIG/";
 
 const $ = (id) => document.getElementById(id);
