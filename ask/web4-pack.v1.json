@@ -1,13 +1,13 @@
 {
   "schema": "fig-ask-web4-pack",
   "version": 1,
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-27",
   "web4_checked_against": {
-    "asset": "/assets/index-glD2NrGo.js",
-    "seen_at": "2026-10-25"
+    "asset": "/assets/index-Dw19D_IG.js",
+    "seen_at": "2026-10-27"
   },
   "card_count": 48,
-  "cards_sha256": "801613458200447ec0092e9cf02949b17a58e016b5d14dd35208f65f0b934b34",
+  "cards_sha256": "b50ee5f4d637108727409ab66812d40bf4f29b2675533b75a672e8a050dee9d6",
   "suggested": [
     {
       "question": "What is Web4?",
@@ -381,22 +381,22 @@
           "url": "https://web-4.app/how-it-works",
           "label": "web-4.app/how-it-works",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://web-4.app/",
           "label": "web-4.app home page FAQ",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://web-4.app/build",
           "label": "web-4.app/build",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-27"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -426,10 +426,10 @@
           "url": "https://web-4.app/build",
           "label": "web-4.app/build",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-27"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -484,13 +484,13 @@
           "url": "https://web-4.app/build",
           "label": "web-4.app/build",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://web-4.app/",
           "label": "web-4.app home page FAQ",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://x.com/web4dotapp/status/2114411206765416940",
@@ -499,7 +499,7 @@
           "seen_at": "2026-10-25"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": true,
       "keywords": [
@@ -523,10 +523,10 @@
           "url": "https://web-4.app/build",
           "label": "web-4.app/build",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-27"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -630,10 +630,10 @@
           "url": "https://web-4.app/build",
           "label": "web-4.app/build",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-27"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 5,
       "needs_jeremy": false,
       "keywords": [
@@ -658,7 +658,7 @@
           "url": "https://web-4.app/build",
           "label": "web-4.app/build",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://x.com/web4dotapp/status/2113391292751257684",
@@ -667,7 +667,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -701,7 +701,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -729,7 +729,7 @@
           "seen_at": "2026-10-22"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -790,7 +790,7 @@
           "seen_at": "2026-10-22"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -819,7 +819,7 @@
           "seen_at": "2026-10-22"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -910,7 +910,7 @@
           "url": "https://web-4.app/build",
           "label": "web-4.app/build",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://x.com/web4dotapp/status/2114095638887776692",
@@ -919,7 +919,7 @@
           "seen_at": "2026-10-24"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -946,7 +946,7 @@
           "url": "https://web-4.app/build",
           "label": "web-4.app/build",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://x.com/web4dotapp/status/2114419014780768327",
@@ -958,10 +958,10 @@
           "url": "https://web-4.app/",
           "label": "web-4.app",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -988,16 +988,16 @@
           "url": "https://web-4.app/build",
           "label": "web-4.app/build",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://web-4.app/",
           "label": "web-4.app",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -1025,16 +1025,16 @@
           "url": "https://web-4.app/build",
           "label": "web-4.app/build",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://web-4.app/how-it-works",
           "label": "web-4.app/how-it-works",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -1059,10 +1059,10 @@
           "url": "https://web-4.app/build",
           "label": "web-4.app/build",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": false,
       "keywords": [
@@ -1089,16 +1089,16 @@
           "url": "https://web-4.app/how-it-works",
           "label": "web-4.app/how-it-works",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://web-4.app/launch",
           "label": "web-4.app/launch",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": true,
       "keywords": [
@@ -1126,7 +1126,7 @@
           "url": "https://web-4.app/launch",
           "label": "web-4.app/launch",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://x.com/web4dotapp/status/2113565478140379463",
@@ -1135,7 +1135,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": true,
       "keywords": [
@@ -1158,7 +1158,7 @@
           "url": "https://web-4.app/launch",
           "label": "web-4.app/launch",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://x.com/web4dotapp/status/2113565478140379463",
@@ -1167,7 +1167,7 @@
           "seen_at": "2026-10-23"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": true,
       "keywords": [
@@ -1191,10 +1191,10 @@
           "url": "https://web-4.app/launch",
           "label": "web-4.app/launch",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": true,
       "keywords": [
@@ -1469,23 +1469,23 @@
         "Which AI models can I chat with on Web4?",
         "What models does Web4 run?"
       ],
-      "answer": "Web4's AI models hub lists open-source models: Llama 3.1, Qwen 2.5, Qwen Coder, DeepSeek R1, Mistral 7B and a Llama vision model. On Oct 25 they were all still marked installing, with none serving yet. You'll find it under Originals on web-4.app.",
+      "answer": "Web4's AI models hub lists open-source models: Llama 3.1, Qwen 2.5, Qwen Coder, DeepSeek R1, Mistral 7B and a Llama vision model. On Oct 27 they were all still marked installing, with none serving yet. You'll find it under Originals on web-4.app.",
       "status": "verified",
       "sources": [
         {
           "url": "https://web-4.app/originals/models",
           "label": "web-4.app/originals/models",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://web-4.app/how-it-works",
           "label": "web-4.app/how-it-works",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 3,
       "needs_jeremy": false,
       "keywords": [
@@ -1567,22 +1567,22 @@
           "url": "https://web-4.app/rent",
           "label": "web-4.app/rent",
           "kind": "web4-page",
-          "seen_at": "2026-10-23"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://web-4.app/launch",
           "label": "web-4.app/launch",
           "kind": "web4-page",
-          "seen_at": "2026-10-24"
+          "seen_at": "2026-10-27"
         },
         {
           "url": "https://web-4.app/",
           "label": "web-4.app",
           "kind": "web4-page",
-          "seen_at": "2026-10-25"
+          "seen_at": "2026-10-27"
         }
       ],
-      "verified_at": "2026-10-25",
+      "verified_at": "2026-10-27",
       "ttl_days": 7,
       "needs_jeremy": true,
       "keywords": [
