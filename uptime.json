@@ -1,16 +1,10 @@
 {
-  "generated_at": "2026-11-02T19:13:00.551Z",
-  "window_start": "2026-11-01T19:10:00.000Z",
-  "window_end": "2026-11-02T19:10:00.000Z",
+  "generated_at": "2026-11-02T20:13:00.368Z",
+  "window_start": "2026-11-01T20:10:00.000Z",
+  "window_end": "2026-11-02T20:10:00.000Z",
   "bucket_minutes": 10,
-  "last_reading_at": "2026-11-02T18:38:31.000Z",
+  "last_reading_at": "2026-11-02T19:38:31.000Z",
   "buckets": [
-    "between",
-    "no_data",
-    "no_data",
-    "between",
-    "between",
-    "between",
     "no_data",
     "no_data",
     "no_data",
@@ -136,6 +130,12 @@
     "no_data",
     "no_data",
     "no_data",
+    "no_data",
+    "no_data",
+    "no_data",
+    "between",
+    "between",
+    "between",
     "no_data",
     "no_data",
     "no_data",
@@ -153,9 +153,9 @@
   "minutes": {
     "awake": 0,
     "napping": 0,
-    "between": 430,
+    "between": 420,
     "unknown": 0,
-    "no_data": 1010
+    "no_data": 1020
   },
   "method": "Each 10-minute block shows the last computer status Web4 reported to Fig's watcher by the end of that block. Blocks with no reading in the 30 minutes before show as no data."
 }
