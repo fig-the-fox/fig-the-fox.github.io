@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T05:13:01.125Z",
-  "window_start": "2026-11-05T05:10:00.000Z",
-  "window_end": "2026-11-06T05:10:00.000Z",
+  "generated_at": "2026-11-06T06:13:00.832Z",
+  "window_start": "2026-11-05T06:10:00.000Z",
+  "window_end": "2026-11-06T06:10:00.000Z",
   "bucket_minutes": 10,
-  "last_reading_at": "2026-11-06T04:40:20.000Z",
+  "last_reading_at": "2026-11-06T05:38:32.000Z",
   "buckets": [
     "no_data",
     "no_data",
@@ -133,12 +133,6 @@
     "no_data",
     "no_data",
     "no_data",
-    "between",
-    "between",
-    "between",
-    "no_data",
-    "no_data",
-    "no_data",
     "no_data",
     "between",
     "between",
@@ -148,7 +142,13 @@
     "no_data",
     "between",
     "between",
-    "between"
+    "between",
+    "no_data",
+    "no_data",
+    "between",
+    "between",
+    "between",
+    "no_data"
   ],
   "minutes": {
     "awake": 0,
