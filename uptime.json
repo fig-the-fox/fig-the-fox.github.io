@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-07T23:13:01.076Z",
-  "window_start": "2026-11-06T23:10:00.000Z",
-  "window_end": "2026-11-07T23:10:00.000Z",
+  "generated_at": "2026-11-08T00:13:00.864Z",
+  "window_start": "2026-11-07T00:10:00.000Z",
+  "window_end": "2026-11-08T00:10:00.000Z",
   "bucket_minutes": 10,
-  "last_reading_at": "2026-11-07T22:38:32.000Z",
+  "last_reading_at": "2026-11-07T23:40:36.000Z",
   "buckets": [
     "no_data",
     "no_data",
@@ -145,10 +145,10 @@
     "no_data",
     "no_data",
     "no_data",
+    "no_data",
     "between",
     "between",
-    "between",
-    "no_data"
+    "between"
   ],
   "minutes": {
     "awake": 0,
