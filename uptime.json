@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-10T01:13:00.448Z",
-  "window_start": "2026-11-09T01:10:00.000Z",
-  "window_end": "2026-11-10T01:10:00.000Z",
+  "generated_at": "2026-11-10T02:13:00.352Z",
+  "window_start": "2026-11-09T02:10:00.000Z",
+  "window_end": "2026-11-10T02:10:00.000Z",
   "bucket_minutes": 10,
-  "last_reading_at": "2026-11-10T00:21:30.000Z",
+  "last_reading_at": "2026-11-10T01:21:29.000Z",
   "buckets": [
     "no_data",
     "between",
