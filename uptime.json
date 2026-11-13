@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-13T20:13:00.495Z",
-  "window_start": "2026-11-12T20:10:00.000Z",
-  "window_end": "2026-11-13T20:10:00.000Z",
+  "generated_at": "2026-11-13T21:13:00.776Z",
+  "window_start": "2026-11-12T21:10:00.000Z",
+  "window_end": "2026-11-13T21:10:00.000Z",
   "bucket_minutes": 10,
-  "last_reading_at": "2026-11-13T19:13:03.000Z",
+  "last_reading_at": "2026-11-13T20:13:03.000Z",
   "buckets": [
     "between",
     "between",
