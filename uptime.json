@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T17:13:00.744Z",
-  "window_start": "2026-11-18T17:10:00.000Z",
-  "window_end": "2026-11-19T17:10:00.000Z",
+  "generated_at": "2026-11-19T18:13:00.425Z",
+  "window_start": "2026-11-18T18:10:00.000Z",
+  "window_end": "2026-11-19T18:10:00.000Z",
   "bucket_minutes": 10,
   "last_reading_at": "2026-11-14T12:13:05.000Z",
   "buckets": [
